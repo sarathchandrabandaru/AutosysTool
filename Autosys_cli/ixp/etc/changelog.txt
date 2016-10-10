@@ -1,0 +1,37 @@
+ixp-cli-11.3.5 Changelog
+
+* Wed Feb 10 2016
+- Release 9
+- Removed DE2 logic script. 
+- Removed 4.51 instance setttings.
+* Mon Mar 30 2015 Doug Brown
+- Release 8
+- Upgraded ixpcli.jar, 11.3.5.5106
+* Fri Aug 8 2014 Doug Brown
+- Release 7
+- Upgraded ixpcli.jar, 11.3.5.5096
+* Thu May 16 2014 Doug Brown
+- Release 6
+- Upgraded ixpcli.jar, 11.3.5.5095
+= Change IXP_SERVER_URL for ACA,ACB,NJA to http://amrs-ixp1-p.bankofamerica.com:8082
+= Change IXP_SERVER_URL for ADA,ADB to http://amrs-ixp1-d.bankofamerica.com:8191
+= Change IXP_SERVER_URL for CLD to http://http://amrs-idash3-p.bankofamerica.com:8092
+* Fri Apr 4 2014 Doug Brown
+- Release 5
+- Added logic for determining AMRS and EMEA DE2 instances.
+* Tue Mar 4 2014 Doug Brown
+- Release 4
+- Change title to username@autoserv format
+- Change prompt to username@autoserv format
+* Mon Mar 3 2014 Doug Brown
+- Release 3
+- Added LBAC instances.
+- Added APAC 4.5.1 instances
+* Wed Feb 19 2014 Doug Brown
+- Release 2
+- Upgraded ixpcli.jar, it includes Java 7 support
+* Wed Dec 4 2013 Doug Brown
+- Release 1
+- Initial build
+- Using 71r1b2-linux binaries.
+
